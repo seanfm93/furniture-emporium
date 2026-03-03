@@ -1,0 +1,27 @@
+main {
+  text-align: center;
+  color: blue;
+  padding: 10px;
+  margin: 70px;
+  grid-template-columns: 1;
+  grid-template-rows: 3;
+}
+
+.frozenTable {
+  color: green;
+}
+
+button {
+  color: red;
+  background-color: orange;
+}
+
+article {
+  display: grid;
+  grid-template-columns: 1;
+  grid-template-rows: 3;
+  border: 1px solid black;
+  padding: 10px;
+  margin: 10px;
+  background-color: greenyellow;
+}
